@@ -1,5 +1,10 @@
 # My Projects:
 
+### Python/SQL/Databricks: E2E data pipeline with ETL and analytics
+<a href="https://github.com/slechtd/JobScraper">Repo</a>
+
+My ccurent passtime. In this project, I wrote a web scraper using Python to gather job-posting data, which is then stored in Azure Data Lake container. This container serves as the landing area for further ETL style processing using Databricks. There, the data is loaded into a bronze-stage Delta table. Silver-stage processing is currently under development.
+
 ### Java/Selenium: Test automation suite
 <a href="https://github.com/slechtd/seleniumshowcase">Repo</a>
 
